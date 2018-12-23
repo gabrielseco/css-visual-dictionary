@@ -1,0 +1,53 @@
+<html>
+
+<head>
+	<title>Codesandbox</title>
+	<style>
+		body {
+			margin: 0;
+			padding: 0;
+		}
+
+		.box {
+			width: 100px;
+			height: 100px;
+			background: #eee;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+		}
+
+		.absolute {
+			position: absolute;
+		}
+
+		.right-top {
+			right: 0;
+		}
+
+		.left-bottom {
+			bottom: 0;
+		}
+
+		.right-bottom {
+			bottom: 0;
+			right: 0
+		}
+	</style>
+</head>
+
+<body>
+	<div class="box absolute left-top">
+		top: 0 left: 0
+	</div>
+	<div class="box absolute right-top">
+		top: 0 right: 0
+	</div>
+	<div class="box absolute left-bottom">
+		bottom: 0 left: 0
+	</div>
+	<div class="box absolute right-bottom">
+		bottom: 0 right: 0
+	</div>
+
+</html>

@@ -1,0 +1,6 @@
+$a: #e50c5e;
+$b: #e16a2e;
+
+.mixing-colors {
+  background: mix($a, $b, 80%);
+}

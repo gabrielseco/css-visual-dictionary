@@ -1,0 +1,61 @@
+<html>
+  <head>
+    <title>Codesandbox</title>
+    <style>
+      .box {
+        display: inline-block;
+        padding: 0;
+        background: #eee;
+        border: 1px solid gray;
+      }
+
+      .border-affects-box {
+        width: 300px;
+        height: 300px;
+      }
+
+      .padding-affects-box {
+        width: 300px;
+        height: 100px;
+        padding: 16px;
+      }
+
+      .padding-border-affects-box {
+        width: 300px;
+        height: 100px;
+        padding: 16px;
+        border: 16px solid gray;
+      }
+
+      .padding-border-no-effects {
+        width: 300px;
+        height: 100px;
+        padding: 16px;
+        border: 16px solid gray;
+        box-sizing: border-box;
+      }
+
+      .container:before {
+        content: ":before";
+        background: white;
+        border: 10px solid #3586ff;
+        width: 130px;
+      }
+
+      .container:after {
+        content: ":after";
+        background: yellow;
+        border: 10px solid orange;
+        left: 150px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="box border-affects-box">CSS IS AWESOME</div>
+    <div class="box padding-affects-box">CSS IS AWESOME</div>
+    <div class="box padding-border-affects-box">CSS IS AWESOME</div>
+    <div class="box padding-border-no-effects">CSS IS AWESOME</div>
+    <div class="container"></div>
+  </body>
+</html>

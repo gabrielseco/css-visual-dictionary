@@ -1,5 +1,7 @@
 # Backgrounds
 
+[Demo](https://htmlpreview.github.io/?https://github.com/gabrielseco/css-visual-dictionary/blob/master/src/chapter-11/01-background-images/index.html)
+
 Con la propiedad background podemos setear una imagen con la función url
 
 ```css

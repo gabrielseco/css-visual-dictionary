@@ -1,5 +1,7 @@
 # Gradients
 
+[Demo](https://htmlpreview.github.io/?https://github.com/gabrielseco/css-visual-dictionary/blob/master/src/chapter-10/01-linear-gradients/index.html)
+
 Los gradientes se setean con la propiedad background llamando a la función
 linear-grandient($color1,$color2) --> si no se le dice nada por defecto afecta
 verticalmente

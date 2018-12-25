@@ -1,5 +1,7 @@
 # text-rendering
 
+[Demo](https://htmlpreview.github.io/?https://github.com/gabrielseco/css-visual-dictionary/blob/master/src/chapter-05/05-text-rendering/index.html)
+
 La propieda text-rendering nos permite mejorar el render de nuestras tipos.
 
 Existen:

@@ -1,5 +1,7 @@
 # Text Align
 
+[Demo](https://htmlpreview.github.io/?https://github.com/gabrielseco/css-visual-dictionary/blob/master/src/chapter-05/02-text-align/index.html)
+
 Para alinear texto tenemos text-align
 1.- Left
 2.- Center

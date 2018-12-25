@@ -1,5 +1,7 @@
 # CSS Variables
 
+[Demo](https://htmlpreview.github.io/?https://github.com/gabrielseco/css-visual-dictionary/blob/master/src/chapter-01/06-css-variables/index.html)
+
 You can declare css variables scoped for one element
 
 ```css

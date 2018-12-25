@@ -1,5 +1,7 @@
 # Pseudoselectors
 
+[Demo](https://htmlpreview.github.io/?https://github.com/gabrielseco/css-visual-dictionary/blob/master/src/chapter-02/pseudo-selectors/index.html)
+
 En CSS un pseudo-selector es cualquier selector que empieza
 con el caracter de dos puntos (:) y son normalmente usados al final de un selector
 

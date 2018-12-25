@@ -1,5 +1,7 @@
 # CSS Box Model
 
+[Demo](https://htmlpreview.github.io/?https://github.com/gabrielseco/css-visual-dictionary/blob/master/src/chapter-03/01-css-box-model/index.html)
+
 The box model es la estructura fundamental detrás de cada elemento de HTML.
 
 Tradicionalmente consiste en un area de contenido, con padding, border y margen
@@ -11,4 +13,4 @@ que si añadimos paddings, margenes o bordes afectará a las dimensiones de la c
 Tipos de BoxSizing:
 1.- content-box es el que viene por defecto
 2.- border-box el que se usa normalmente
-3.- padding-box sólo funciona en safari
+3.- padding-box sólo funciona en firefox
